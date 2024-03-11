@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm yaroslav 😉
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaroslav-Zozulya&show_icons=true&theme=radical)
 <!--
 **Yaroslav-Zozulya/Yaroslav-Zozulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
